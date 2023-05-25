@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shiv12345678/typing-master.git/static/css/main.31e8a719.css",
+    "main.js": "/shiv12345678/typing-master.git/static/js/main.683e7002.js",
+    "index.html": "/shiv12345678/typing-master.git/index.html",
+    "main.31e8a719.css.map": "/shiv12345678/typing-master.git/static/css/main.31e8a719.css.map",
+    "main.683e7002.js.map": "/shiv12345678/typing-master.git/static/js/main.683e7002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31e8a719.css",
+    "static/js/main.683e7002.js"
+  ]
+}
